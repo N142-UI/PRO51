@@ -1,0 +1,62 @@
+h1{
+    color: black; ;
+}
+/* *{
+    border: solid;
+}*/
+.header{
+    background-color:rgba(255,255,255);
+    display: flex;
+    justify-content:center;
+    border:solid;
+    border-color:rgb(4, 64, 194);
+    font-family: fantasy;
+}
+.middle{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: fantasy;
+    border:solid;
+    border-color:black;
+    font-family: fantasy;
+}
+
+
+.middle2{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: fantasy;
+    border:solid;
+    border-color:black;
+    font-family: fantasy;
+}
+
+
+
+body{
+    background-color: #5804df31;
+}
+
+.grid{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: fantasy;
+    border:solid;
+    border-color:silver;
+    font-family: fantasy;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    font-family: fantasy;
+   
+}
+
+p,h2{
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+
+}
